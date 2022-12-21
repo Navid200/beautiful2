@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: This is a test
 subtitle: Excerpt from Soulshaping by Jeff Brown
 cover-img: /assets/img/path.jpg
